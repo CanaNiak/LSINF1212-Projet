@@ -1,0 +1,8 @@
+{
+  "name": "ProjetWeb",
+  "version": "0.0.1",
+  "description": "Ceci est le fichier contenant les info sur le projet de LSINF1212",
+  "author": "Crochet Christophe, Hick Simon,Gauthier RF",
+  "license": "BSD-2-Clause",
+  "private": true
+}
